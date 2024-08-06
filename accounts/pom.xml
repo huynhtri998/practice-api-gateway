@@ -95,7 +95,7 @@
 				<version>3.4.1</version>
 				<configuration>
 					<to>
-						<image>eazybytes/${project.artifactId}:s9</image>
+						<image>huynhtri998/${project.artifactId}:s9</image>
 					</to>
 				</configuration>
 			</plugin>
